@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, feature friend! 👋</h1>
-<h3 align="center">I'm Eric, a Software Engineer from China.</h3>
+<h1 align="center">Hey there, feature friend! Nice to meet you. 👋</h1>
+<h3 align="center">I'm Eric, A Software Engineer. Currently involved in software development for AI drug discovery.</h3>
 
 <p align="center">
 <a href="https://x.com/FE_MARK_" target="_blank">
